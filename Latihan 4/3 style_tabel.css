@@ -12,6 +12,7 @@ td {
 
 th {
     padding: 8px 0;
+    /* padding untuk memberi jarak antara garis dan text */
     background: #0cf;
 }
 
@@ -19,6 +20,7 @@ td {
     padding: 4px 8px;
 }
 
+/* style_tabel2.css */
 .zebra tr:nth-child(even) {
     background-color: #E6E6FA;
 }
@@ -28,5 +30,5 @@ td {
 }
 
 .zebra tr:hover {
-    background-color: yellow;
+    background-color: rgb(12, 55, 119);
 }

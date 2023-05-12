@@ -1,0 +1,20 @@
+#satu{
+    width: 100px;
+    height: 100px;
+    background-color:aquamarine;
+    position: static;
+}
+
+#dua{
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+    position: relative;
+}
+
+#tiga{
+    width: 100px;
+    height:100px;
+    background-color:blanchedalmond;
+    position: static;
+}
